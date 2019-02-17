@@ -1,0 +1,13 @@
+C:\Users\Alfredo\Desktop\Arreglos y strings\ArreglosStrings\bin\Debug\ArreglosStrings.exe.config
+C:\Users\Alfredo\Desktop\C#\Arreglos y strings\ArreglosStrings\bin\Debug\ArreglosStrings.exe.config
+C:\Users\Alfredo\Desktop\C#\Arreglos y strings\ArreglosStrings\bin\Debug\ArreglosStrings.exe
+C:\Users\Alfredo\Desktop\C#\Arreglos y strings\ArreglosStrings\bin\Debug\ArreglosStrings.pdb
+C:\Users\Alfredo\Desktop\C#\Arreglos y strings\ArreglosStrings\obj\Debug\ArreglosStrings.csprojResolveAssemblyReference.cache
+C:\Users\Alfredo\Desktop\C#\Arreglos y strings\ArreglosStrings\obj\Debug\ArreglosStrings.exe
+C:\Users\Alfredo\Desktop\C#\Arreglos y strings\ArreglosStrings\obj\Debug\ArreglosStrings.pdb
+C:\Users\Alfredo\Documents\Universidad de Guadalajara CUCEI\Computación Proyectos Extra\C#\Arreglos y strings\ArreglosStrings\bin\Debug\ArreglosStrings.exe.config
+C:\Users\Alfredo\Documents\Universidad de Guadalajara CUCEI\Computación Proyectos Extra\C#\Arreglos y strings\ArreglosStrings\obj\Debug\ArreglosStrings.exe
+C:\Users\Alfredo\Documents\Universidad de Guadalajara CUCEI\Computación Proyectos Extra\C#\Arreglos y strings\ArreglosStrings\obj\Debug\ArreglosStrings.pdb
+C:\Users\Alfredo\Documents\Universidad de Guadalajara CUCEI\Computación Proyectos Extra\C#\Arreglos y strings\ArreglosStrings\bin\Debug\ArreglosStrings.exe
+C:\Users\Alfredo\Documents\Universidad de Guadalajara CUCEI\Computación Proyectos Extra\C#\Arreglos y strings\ArreglosStrings\bin\Debug\ArreglosStrings.pdb
+C:\Users\Alfredo\Documents\Universidad de Guadalajara CUCEI\Computación Proyectos Extra\C#\Arreglos y strings\ArreglosStrings\obj\Debug\ArreglosStrings.csprojResolveAssemblyReference.cache

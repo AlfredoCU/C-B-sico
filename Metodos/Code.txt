@@ -1,8 +1,0 @@
-foreach(Control ctrl in this.Controls) {
-	if(ctrl is TextBox)
-        {
-        	TextBox txt = ctrl as TextBox;
-                txt.Clear();
-                txt.BackColor = Color.White;
-        }
-}
